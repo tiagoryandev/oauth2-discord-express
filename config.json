@@ -1,0 +1,7 @@
+{
+    "oauth2": {
+        "redirect_uri": "http://localhost:8081/login/callback",
+        "client_id": "ID da sua Aplicação",
+        "scopes": ["identify"]
+    }
+}
