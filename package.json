@@ -1,0 +1,19 @@
+{
+  "name": "oauth2-discord-express",
+  "version": "1.0.0",
+  "description": "Sistema de Autenticação 2.0 do Discord API usando um Servidor Express. Nesse repositório iremos mostrar como fazer a autenticação de sua conta com o servidor e como receber os dados do usuário.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": ["Discord", "Express", "Server", "Session", "API", "Oauth2"],
+  "author": "TiaGoiNsaNy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
