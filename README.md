@@ -8,7 +8,7 @@
 </a>
 <a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a> 
 <a href="https://www.paypal.com/donate/?cmd=_donations&business=K4DA7PQ8N2NDY&item_name=Ajudar+a+melhorar+a+hospedagem+da+Mizuhara+Bot&currency_code=BRL"><img src="https://img.shields.io/badge/donate-periquitosvaldo-fff.svg"></a>
-<img alt="GitHub" src="https://img.shields.io/github/license/iNsaNyDevelopers/oauth2-discord-express?style=plastic">
+<img alt="GitHub" src="https://img.shields.io/github/license/iNsaNyDevelopers/oauth2-discord-express?style=plasti">
 </p>
 
 ## `1º` **|** Introdução:
