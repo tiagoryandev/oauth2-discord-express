@@ -27,6 +27,17 @@ CLIENT_SECRET=key_secreta_da_sua_aplicação
 PORT=8081
 ```
 
+### :floppy_disk: **|** Arquivo `config.json`
+```json
+{
+    "oauth2": {
+        "redirect_uri": "http://localhost:8081/login/callback",
+        "client_id": "ID da sua Aplicação",
+        "scopes": ["identify"]
+    }
+}
+```
+
 ### :open_file_folder: - Todas as Dependências Usadas:
 
 - `dotenv@8.2.0`
